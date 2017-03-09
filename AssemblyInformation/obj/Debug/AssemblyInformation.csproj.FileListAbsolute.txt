@@ -1,0 +1,5 @@
+c:\users\renan.pinto\documents\visual studio 2015\Projects\AssemblyInformation\AssemblyInformation\bin\Debug\AssemblyInformation.exe
+c:\users\renan.pinto\documents\visual studio 2015\Projects\AssemblyInformation\AssemblyInformation\bin\Debug\AssemblyInformation.pdb
+c:\users\renan.pinto\documents\visual studio 2015\Projects\AssemblyInformation\AssemblyInformation\obj\Debug\AssemblyInformation.csprojResolveAssemblyReference.cache
+c:\users\renan.pinto\documents\visual studio 2015\Projects\AssemblyInformation\AssemblyInformation\obj\Debug\AssemblyInformation.exe
+c:\users\renan.pinto\documents\visual studio 2015\Projects\AssemblyInformation\AssemblyInformation\obj\Debug\AssemblyInformation.pdb
