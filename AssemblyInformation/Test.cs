@@ -1,4 +1,4 @@
-﻿namespace AssemblyInformation
+﻿namespace AssemblyInformations
 {
     using System;
     using System.Reflection;
