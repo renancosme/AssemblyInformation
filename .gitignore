@@ -1,4 +1,3 @@
-
 ##Thumbnails created by windows##
 Thumbs.db
 [Tt]humbs.db 
@@ -14,7 +13,6 @@ _ReSharper*/
 _ReSharper.*
 [Tt]est[Rr]esult*
 [Oo]bj
-
 
 #####Files#####
 *.obj
@@ -40,3 +38,6 @@ _ReSharper.*
 *.resharper
 *.DS_Store
 *.tmp
+
+#####Visual Studio 2015 cache/options directory#####
+.vs/
